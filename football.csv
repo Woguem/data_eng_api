@@ -1,0 +1,51 @@
+type,id,score,name,isCoach,teamId,teamName
+player,701154,301297,Kylian Mbappé,False,8633,Real Madrid
+player,292462,301257,Mohamed Salah,False,8650,Liverpool
+player,30981,301169,Lionel Messi,False,960720,Inter Miami CF
+player,844415,301100,Éder Militao,False,8633,Real Madrid
+player,831489,301097,Alexis Mac Allister,False,8650,Liverpool
+player,534670,301094,Martin Ødegaard,False,9825,Arsenal
+player,1021586,301094,Gabriel Martinelli,False,9825,Arsenal
+player,1156141,301093,Jamal Musiala,False,9823,Bayern München
+player,769895,301092,Matthijs de Ligt,False,10260,Manchester United
+player,1137668,301091,Moisés Caicedo,False,8455,Chelsea
+player,839204,301073,Omar Marmoush,False,8456,Manchester City
+player,1292810,301063,Kobbie Mainoo,False,10260,Manchester United
+player,1158945,301063,Nuno Mendes,False,9847,Paris Saint-Germain
+player,863098,301060,Matheus Cunha,False,10260,Manchester United
+player,1029063,301058,Michael Olise,False,9823,Bayern München
+player,574645,301051,Mikel Merino,False,9825,Arsenal
+player,267365,301049,Marquinhos,False,9847,Paris Saint-Germain
+player,696365,301046,Marcus Rashford,False,10260,Manchester United
+player,955529,301044,Matheus Nunes,False,8456,Manchester City
+player,847983,301040,Lisandro Martinez,False,10260,Manchester United
+player,521318,301038,Manuel Akanji,False,8456,Manchester City
+player,948800,301025,Giorgi Mamardashvili,False,8650,Liverpool
+player,828159,301013,Min-Jae Kim,False,9823,Bayern München
+player,1035614,301012,Manuel Ugarte,False,10260,Manchester United
+player,750032,301012,Mason Mount,False,10260,Manchester United
+player,1084981,301011,Noni Madueke,False,8455,Chelsea
+player,976506,301005,Mykhaylo Mudryk,False,8455,Chelsea
+player,1197250,300999,Malo Gusto,False,8455,Chelsea
+player,363364,300996,Ederson Moraes,False,8456,Manchester City
+player,1384883,300984,Marc Casado,False,8634,Barcelona
+player,1195281,300982,Milos Kerkez,False,8650,Liverpool
+player,239219,300981,Mateo Kovacic,False,8456,Manchester City
+player,1607566,300980,Franco Mastantuono,False,8633,Real Madrid
+player,775539,300980,Noussair Mazraoui,False,10260,Manchester United
+player,623537,300977,Ferland Mendy,False,8633,Real Madrid
+player,873289,300976,Marc Cucurella,False,8455,Chelsea
+player,493165,300973,James Maddison,False,8586,Tottenham Hotspur
+player,1107648,300967,James McAtee,False,8456,Manchester City
+player,498033,300954,Marco Asensio,False,9847,Paris Saint-Germain
+player,255610,300949,Harry Maguire,False,10260,Manchester United
+player,865118,300943,Tyrell Malacia,False,10260,Manchester United
+player,800880,300943,Matvey Safonov,False,9847,Paris Saint-Germain
+player,309328,300943,Milan Skriniar,False,9847,Paris Saint-Germain
+player,1503655,300943,Gabriel Moscardo,False,9847,Paris Saint-Germain
+player,1426170,300942,Mamadou Sarr,False,8455,Chelsea
+player,184554,300934,Marc-Andre ter Stegen,False,8634,Barcelona
+player,624166,300927,Manuel Locatelli,False,9885,Juventus
+player,1336582,300923,Maximo Perrone,False,8456,Manchester City
+player,602304,300923,Nordi Mukiele,False,9847,Paris Saint-Germain
+player,116772,300921,Thomas Müller,False,9823,Bayern München
