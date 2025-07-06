@@ -18,20 +18,21 @@ headers = {
 url = 'https://free-api-live-football-data.p.rapidapi.com/football-players-search?search=m' 
 
 
+# Function to fetch data from Yahoo API with GET request
+
 def fetch_data_yahoo(url, headers):
 
-    data = requests.get(url, headers=headers)
+    data_get = requests.get(url, headers=headers)
 
-    data = data.json()
+    data_get = data_get.json()
 
-    df = pd.json_normalize(data['response']['suggestions'])
+    df = pd.json_normalize(data_get['response']['suggestions'])
 
     df.to_csv('football.csv', index=False)
 
-    return data
+    return data_get
 
 
-data = fetch_data_yahoo(url, headers)
+data_get = fetch_data_yahoo(url, headers)
 
-print(data)
-
+print(data_get)
