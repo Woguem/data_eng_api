@@ -40,8 +40,12 @@ response = send_data_to_server(url, data, headers)
 
 print(f"Response status code: {response.status_code}")
 
-print(f"Response content: {response.content}")
+# print(f"Response content: {response.content}")
 
+
+df = pd.DataFrame(response.content)
+
+print(df)
 
 
 
